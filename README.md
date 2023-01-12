@@ -2,9 +2,13 @@
 
 In this project, we're going to create a range slider. As you move the knob, the dollar amount above will update.
 
+El objetivo está conseguido, pero no he conseguido hacer el slider exactamente igual que aparece en figma.
+
+https://www.figma.com/file/k6NvCbwzoltyg7szh0iLyy/06---Range-Slider?node-id=0%3A1&t=3RBfWXX16eboWgJo-0
+
 ## **Users should be able to:**
 
-- Move the knob on the range
+-  Move the knob on the range
 
 [[FREE]] **Need some support on this challenge?** Upgrade to the **[Solution tier](http://adventofcss.com/)** You'll get a video explanation, from Amy.
 
@@ -22,15 +26,15 @@ In this project, we're going to create a range slider. As you move the knob, the
 
 # Taking your Project to the Next Level
 
-- Use a framework or library like [Tailwind CSS](https://tailwindcss.com/), [Styled Components](https://styled-components.com/), or [CSS Modules](https://github.com/css-modules/css-modules). Or, if you're feeling particularly adventurous, try writing everything in Vanilla CSS.
-- Add some animation
-- Add a toggle to show monthly vs annual pricing
+-  Use a framework or library like [Tailwind CSS](https://tailwindcss.com/), [Styled Components](https://styled-components.com/), or [CSS Modules](https://github.com/css-modules/css-modules). Or, if you're feeling particularly adventurous, try writing everything in Vanilla CSS.
+-  Add some animation
+-  Add a toggle to show monthly vs annual pricing
 
 # **FAQs**
 
-- Can I use libraries / frameworks on these projects?
-  - Of course! We're providing the vanilla HTML and CSS, but you can use whatever tools and frameworks you'd like.
-- Oh no! I'm stuck!
-  - Check out the [Learn Build Teach Discord](http://learnbuildteach.com). We have a specific channel set up, just for the Advent of JavaScript.
-- Can I use this project in my portfolio?
-  - Sure! But, be honest about the work that _you_ did
+-  Can I use libraries / frameworks on these projects?
+   -  Of course! We're providing the vanilla HTML and CSS, but you can use whatever tools and frameworks you'd like.
+-  Oh no! I'm stuck!
+   -  Check out the [Learn Build Teach Discord](http://learnbuildteach.com). We have a specific channel set up, just for the Advent of JavaScript.
+-  Can I use this project in my portfolio?
+   -  Sure! But, be honest about the work that _you_ did
