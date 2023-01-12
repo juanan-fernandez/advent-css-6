@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="styles.css" />
+		<title>Range Slider</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="slidercontainer">
+				<p id="myVal" class="slidercontainer__p"><sup>$</sup>0</p>
+				<input type="range" min="0" max="1000" value="0" id="myRange" />
+				<button class="slidercontainer__button">BUY NOW</button>
+			</div>
+		</div>
+	</body>
+	<script>
+		var slider = document.getElementById('myRange');
+		var output = document.getElementById('myVal');
+		output.innerHTML = `<sup>\$</sup>${slider.value}`;
+
+		slider.oninput = function () {
+			output.innerHTML = `<sup>\$</sup>${slider.value}`;
+		};
+	</script>
+</html>
